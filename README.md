@@ -1,8 +1,8 @@
 # 12-15-2022-Slytherin-s-Serpent-Final-Project-
 
-Final Project: Players are able to interact with the basklisk by talking. The basklisk will emit particles from it detects sound input. Players can also spawn space rocks by pressing the left mouse pad
+Final Project: Players are able to interact with the basklisk by talking. The basklisk will emit particles from its mouth if it detects sound input. Players can also spawn space rocks by pressing the left mouse pad
 
-Terrain System: Mountain Border 
+Terrain System: Mountain Border/ sand dunes 
 Unity Scripting: Bullet Prefab
 Particle System: Fog System
 Input System: Spawn bullet/rock prefab by clicking right mouse
